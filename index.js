@@ -20,4 +20,4 @@ function darkMode(){
     toggleSwitch.addEventListener('change', switchTheme, false);
 }
 
-module.exports = darkMode;
+export default darkMode;

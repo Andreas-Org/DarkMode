@@ -4,22 +4,25 @@ USE THIS SUPER AWESOME AND EPIC DARK THEME SO YOU CAN MAKE YOUR WEBSITE CHANGE B
 ## USAGE
 Install with `npm i @andreasrisager/darkmode`
 
-###### Javascript
+
+>##### Javascript
 ```javascript
-var darkMode = require("@andreasrisager/darkmode");
+import darkMode from "./index.js";
 
 darkMode();
 ```
 
-###### HTML
+>##### HTML
 ```html
 <label class="theme-switch" for="darkmode">
     <input type="checkbox" id="darkmode">
     Dark Mode
 </label>
+
+<script type="module" src=""></script>
 ```
 
-###### CSS
+>##### CSS
 ```css
 [data-theme="dark"] {
     color: #e9e9e9;

@@ -1,0 +1,27 @@
+{
+  "name": "darkmode",
+  "version": "1.0.0",
+  "description": "USE THIS SUPER AWESOME AND EPIC DARK THEME SO YOU CAN MAKE YOUR WEBSITE CHANGE BETWEEN WHITE MODE OR DARK MODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreas-Org/DarkMode.git"
+  },
+  "keywords": [
+    "dark",
+    "darktheme",
+    "theme",
+    "black",
+    "lightmode",
+    "darkmode"
+  ],
+  "author": "AndreasRisager & Lupe.-",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andreas-Org/DarkMode/issues"
+  },
+  "homepage": "https://github.com/Andreas-Org/DarkMode#readme"
+}

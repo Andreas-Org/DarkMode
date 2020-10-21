@@ -1,6 +1,6 @@
 {
   "name": "@andreasrisager/darkmode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "USE THIS SUPER AWESOME AND EPIC DARK THEME SO YOU CAN MAKE YOUR WEBSITE CHANGE BETWEEN WHITE MODE OR DARK MODE",
   "main": "index.js",
   "scripts": {

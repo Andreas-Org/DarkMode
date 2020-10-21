@@ -19,5 +19,4 @@ function darkMode(){
     }
     toggleSwitch.addEventListener('change', switchTheme, false);
 }
-
 export default darkMode;

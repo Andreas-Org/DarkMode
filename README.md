@@ -7,7 +7,7 @@ Install with `npm i @andreasrisager/darkmode`
 
 >##### Javascript
 ```javascript
-import darkMode from "./index.js";
+import darkMode from "./node_modules/@andreasrisager/darkmode/index.js";
 
 darkMode();
 ```

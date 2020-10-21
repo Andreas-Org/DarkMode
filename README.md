@@ -1,15 +1,17 @@
 # DarkMode
-USE THIS SUPER AWESOME AND EPIC DARK THEME SO YOU CAN MAKE YOUR WEBSITE CHANGE BETWEEN WHITE MODE OR DARK MODE
+USE THIS SUPER AWESOME AND EPIC DARK THEME SO YOU CAN MAKE YOUR WEBSITE CHANGE BETWEEN LIGHT MODE OR DARK MODE
 
 ## USAGE
 Install with `npm i @andreasrisager/darkmode`
 
+###### Javascript
 ```javascript
 var darkMode = require("@andreasrisager/darkmode");
 
 darkMode();
 ```
 
+###### HTML
 ```html
 <label class="theme-switch" for="darkmode">
     <input type="checkbox" id="darkmode">
@@ -17,6 +19,7 @@ darkMode();
 </label>
 ```
 
+###### CSS
 ```css
 [data-theme="dark"] {
     color: #e9e9e9;

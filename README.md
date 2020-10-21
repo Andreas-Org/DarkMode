@@ -5,14 +5,14 @@ USE THIS SUPER AWESOME AND EPIC DARK THEME SO YOU CAN MAKE YOUR WEBSITE CHANGE B
 Install with `npm i @andreasrisager/darkmode`
 
 
->##### Javascript
+>**Javascript**
 ```javascript
 import darkMode from "./node_modules/@andreasrisager/darkmode/index.js";
 
 darkMode();
 ```
 
->##### HTML
+>**HTML**
 ```html
 <label class="theme-switch" for="darkmode">
     <input type="checkbox" id="darkmode">
@@ -22,7 +22,7 @@ darkMode();
 <script type="module" src=""></script>
 ```
 
->##### CSS
+>**CSS**
 ```css
 [data-theme="dark"] {
     color: #e9e9e9;

@@ -7,8 +7,8 @@ function darkMode(){
             toggleSwitch.checked = true;
         }
     }
-    function switchTheme(e) {
-        if (e.target.checked) {
+    function switchTheme() {
+        if (toggleSwitch.checked) {
             document.documentElement.setAttribute('data-theme', 'dark');
             localStorage.setItem('theme', 'dark');
         }

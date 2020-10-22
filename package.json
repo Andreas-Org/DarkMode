@@ -1,7 +1,7 @@
 {
   "name": "@andreasrisager/darkmode",
-  "version": "1.0.2",
-  "description": "USE THIS SUPER AWESOME AND EPIC DARK THEME SO YOU CAN MAKE YOUR WEBSITE CHANGE BETWEEN WHITE MODE OR DARK MODE",
+  "version": "1.0.3",
+  "description": "MAKE YOUR WEBSITE CHANGE BETWEEN DARK MODE OR LIGHT MODE WITH LOCALSTORAGE",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +16,10 @@
     "lighttheme",
     "theme",
     "black",
+    "light",
     "lightmode",
-    "darkmode"
+    "darkmode",
+    "front-end"
   ],
   "author": "AndreasRisager & Lupe.-",
   "license": "MIT",
